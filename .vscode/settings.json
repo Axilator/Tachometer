@@ -1,0 +1,6 @@
+{
+    "mplab.clangd.compileCommandsDir": "${workspaceFolder}\\_build\\Tachometer\\default",
+    "mplab.clangd.path": "c:\\Program Files\\Microchip\\xc8\\v3.10\\bin\\xc8-clangd.exe",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "cmake.sourceDirectory": "C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/cmake/Tachometer/default"
+}

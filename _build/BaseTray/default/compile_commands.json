@@ -1,0 +1,80 @@
+[
+{
+  "directory": "C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/BaseTray/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DXPRJ_default=default -D__ATmega328P__ -c -mcpu=ATmega328P -x c \"-mdfp=C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8\" -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Debug.c.o -c \"C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Debug.c\"",
+  "file": "C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Debug.c",
+  "output": "CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Debug.c.o"
+},
+{
+  "directory": "C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/BaseTray/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DXPRJ_default=default -D__ATmega328P__ -c -mcpu=ATmega328P -x c \"-mdfp=C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8\" -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Eeprom.c.o -c \"C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Eeprom.c\"",
+  "file": "C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Eeprom.c",
+  "output": "CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Eeprom.c.o"
+},
+{
+  "directory": "C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/BaseTray/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DXPRJ_default=default -D__ATmega328P__ -c -mcpu=ATmega328P -x c \"-mdfp=C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8\" -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Handler.c.o -c \"C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Handler.c\"",
+  "file": "C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Handler.c",
+  "output": "CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Handler.c.o"
+},
+{
+  "directory": "C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/BaseTray/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DXPRJ_default=default -D__ATmega328P__ -c -mcpu=ATmega328P -x c \"-mdfp=C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8\" -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\IO.c.o -c \"C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\IO.c\"",
+  "file": "C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\IO.c",
+  "output": "CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\IO.c.o"
+},
+{
+  "directory": "C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/BaseTray/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DXPRJ_default=default -D__ATmega328P__ -c -mcpu=ATmega328P -x c \"-mdfp=C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8\" -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Init.c.o -c \"C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Init.c\"",
+  "file": "C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Init.c",
+  "output": "CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Init.c.o"
+},
+{
+  "directory": "C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/BaseTray/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DXPRJ_default=default -D__ATmega328P__ -c -mcpu=ATmega328P -x c \"-mdfp=C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8\" -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Monitor.c.o -c \"C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Monitor.c\"",
+  "file": "C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Monitor.c",
+  "output": "CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Monitor.c.o"
+},
+{
+  "directory": "C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/BaseTray/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DXPRJ_default=default -D__ATmega328P__ -c -mcpu=ATmega328P -x c \"-mdfp=C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8\" -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\SerialPort.c.o -c \"C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\SerialPort.c\"",
+  "file": "C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\SerialPort.c",
+  "output": "CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\SerialPort.c.o"
+},
+{
+  "directory": "C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/BaseTray/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DXPRJ_default=default -D__ATmega328P__ -c -mcpu=ATmega328P -x c \"-mdfp=C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8\" -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\SysTimer.c.o -c \"C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\SysTimer.c\"",
+  "file": "C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\SysTimer.c",
+  "output": "CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\SysTimer.c.o"
+},
+{
+  "directory": "C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/BaseTray/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DXPRJ_default=default -D__ATmega328P__ -c -mcpu=ATmega328P -x c \"-mdfp=C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8\" -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\TachoCalc.c.o -c \"C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\TachoCalc.c\"",
+  "file": "C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\TachoCalc.c",
+  "output": "CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\TachoCalc.c.o"
+},
+{
+  "directory": "C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/BaseTray/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DXPRJ_default=default -D__ATmega328P__ -c -mcpu=ATmega328P -x c \"-mdfp=C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8\" -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Timer.c.o -c \"C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Timer.c\"",
+  "file": "C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Timer.c",
+  "output": "CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Timer.c.o"
+},
+{
+  "directory": "C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/BaseTray/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DXPRJ_default=default -D__ATmega328P__ -c -mcpu=ATmega328P -x c \"-mdfp=C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8\" -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Version.c.o -c \"C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Version.c\"",
+  "file": "C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Version.c",
+  "output": "CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\Version.c.o"
+},
+{
+  "directory": "C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/BaseTray/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DXPRJ_default=default -D__ATmega328P__ -c -mcpu=ATmega328P -x c \"-mdfp=C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8\" -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\main.c.o -c \"C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\main.c\"",
+  "file": "C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\main.c",
+  "output": "CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\BaseTray\\main.c.o"
+},
+{
+  "directory": "C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/BaseTray/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DXPRJ_default=default -D__ATmega328P__ -c -mcpu=ATmega328P -x c \"-mdfp=C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8\" -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\main.c.o -c \"C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\main.c\"",
+  "file": "C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\main.c",
+  "output": "CMakeFiles\\BaseTray_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\main.c.o"
+}
+]
