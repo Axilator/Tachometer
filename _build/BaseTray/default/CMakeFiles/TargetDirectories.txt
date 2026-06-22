@@ -1,4 +1,0 @@
-C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/BaseTray/default/CMakeFiles/BaseTray_default_default_XC8_compile.dir
-C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/BaseTray/default/CMakeFiles/BaseTray_default_image_EZAOwJq4.dir
-C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/BaseTray/default/CMakeFiles/edit_cache.dir
-C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/BaseTray/default/CMakeFiles/rebuild_cache.dir
