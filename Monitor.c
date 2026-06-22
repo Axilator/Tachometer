@@ -120,7 +120,7 @@ static uint16_t put_long_to_str(uint32_t value)
 {
     char str[12];
     //ltoa(value, str, 10);
-    sprintf(str,"%lu", value);
+    sprintf(str,"%lu", (unsigned long)value);
     return sp_puts(str);
 }
 

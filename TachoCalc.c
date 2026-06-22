@@ -49,7 +49,7 @@ static uint8_t m_green_LED_max = 200;
 static void deb_print_long(char* str, uint32_t value)
 {
     char deb_str[100];
-    sprintf(deb_str, "%s: %lu", str, value);
+    sprintf(deb_str, "%s: %lu", str, (unsigned long) value);
     DEBUG_TACHO(deb_str);
 }    
 

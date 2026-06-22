@@ -48,7 +48,7 @@ typedef  struct {
 static SWITCH_STRUCT m_our_switch[MAX_NBR_OF_SWITCHES];
 
 
-int8_t handler_init()
+int8_t hndl_handler_init()
 {
     uint8_t nbr;
     for (nbr = 0; nbr < MAX_NBR_OF_TIMERS; nbr++) {
@@ -114,7 +114,7 @@ int8_t hndl_set_keypress_callback(i8_func_1_i8 func, uint8_t sw_nbr)
     return ERR_CODE_NEG;
 }
 
-int8_t handler_main()
+int8_t hndl_handler_main()
 {
     uint8_t nbr;
     // Check timers

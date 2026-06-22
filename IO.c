@@ -150,7 +150,7 @@ static SWITCH_STAT_TYPE switch_is_just_released(uint8_t sw_pressed)
 extern void io_handle_read_switch()
 {
     uint8_t sw_pressed;
-    SWITCH_STAT_TYPE sw_status;
+    SWITCH_STAT_TYPE sw_status = SW_STATUS_CLEAR;
     
     // ----- Handle switches -----
     sw_pressed =  read_switch();

@@ -58,6 +58,7 @@ extern uint16_t sp_clear_tx_fifo(void);
 extern uint16_t sp_peek(uint8_t *ch);
 extern uint16_t sp_get_nbr_in_buf();
 extern uint16_t sp_putc(const uint8_t ch);
+extern uint16_t sp_putc_no_wait(const uint8_t ch);
 extern uint16_t sp_puts(char *ch);
 extern uint16_t sp_getc(uint8_t *ch);
 //extern USHORT SpGetcTimed(BYTE *l_chr , USHORT l_time);

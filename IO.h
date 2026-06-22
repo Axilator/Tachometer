@@ -14,6 +14,7 @@
 //////////////////////////////////////////////////////////////////////////
 // Defines
 typedef enum SWITCH_STATUS {
+    SW_STATUS_CLEAR  = 0x00,
     SW_1_SHORT_PRESS = 0x01,
     SW_1_LONG_PRESS  = 0x02,
     SW_2_SHORT_PRESS = 0x04,

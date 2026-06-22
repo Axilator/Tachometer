@@ -73,7 +73,8 @@ int main(void)
     sp_puts_flash(FLASH_STR("\r\nTacho  Version: " ));
     sp_puts_flash(g_version);
     sp_puts_flash(FLASH_STR("\r\n" ));
-
+    
+    hndl_handler_init();
     hndl_set_timer_callback((i8_func_1_i8) callback_from_timer, 10);
     hndl_set_serial_port_callback((i8_func_1_i8) callback_from_serial_port, 0);
   

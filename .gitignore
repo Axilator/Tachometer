@@ -1,0 +1,4 @@
+/Tachometer-cppcheck-build-dir/
+*.o
+/out
+/_build
