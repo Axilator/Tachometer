@@ -85,9 +85,9 @@ Discarded input sections
  .bss           0x0000000000000000        0x0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Debug.c.o
  .text.log_message
                 0x0000000000000000       0x50 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Debug.c.o
- progmem.data.__c.1930
-                0x0000000000000000        0x6 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Debug.c.o
  progmem.data.__c.1932
+                0x0000000000000000        0x6 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Debug.c.o
+ progmem.data.__c.1934
                 0x0000000000000000        0x3 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Debug.c.o
  .text          0x0000000000000000        0x0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Eeprom.c.o
  .data          0x0000000000000000        0x0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Eeprom.c.o
@@ -95,13 +95,9 @@ Discarded input sections
  .text          0x0000000000000000        0x0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
  .data          0x0000000000000000        0x0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
  .bss           0x0000000000000000        0x0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
- .bss.m_our_switch
-                0x0000000000000000        0x8 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
- .text.handler_init
-                0x0000000000000000      0x128 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
  .text.hndl_set_keypress_callback
                 0x0000000000000000       0x86 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
- .text.handler_main
+ .text.hndl_handler_main
                 0x0000000000000000      0x286 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
  .text          0x0000000000000000        0x0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
  .data          0x0000000000000000        0x0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
@@ -147,9 +143,9 @@ Discarded input sections
                 0x0000000000000000       0x1c CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
  .text.tac_get_nbr_of_cylinders
                 0x0000000000000000       0x12 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
- .bss.tmp1.2236
+ .bss.tmp1.2237
                 0x0000000000000000        0x4 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
- .bss.tmp2.2237
+ .bss.tmp2.2238
                 0x0000000000000000        0x4 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
  .text          0x0000000000000000        0x0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Timer.c.o
  .data          0x0000000000000000        0x0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Timer.c.o
@@ -157,16 +153,6 @@ Discarded input sections
  .text          0x0000000000000000        0x0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Version.c.o
  .data          0x0000000000000000        0x0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Version.c.o
  .bss           0x0000000000000000        0x0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Version.c.o
- .text          0x0000000000000000        0x0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\main2.c.o
- .data          0x0000000000000000        0x0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\main2.c.o
- .bss           0x0000000000000000        0x0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\main2.c.o
- .debug_info    0x0000000000000000      0x20e CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\main2.c.o
- .debug_abbrev  0x0000000000000000       0x19 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\main2.c.o
- .debug_aranges
-                0x0000000000000000       0x18 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\main2.c.o
- .debug_line    0x0000000000000000       0x1a CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\main2.c.o
- .debug_str     0x0000000000000000        0x0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\main2.c.o
- .comment       0x0000000000000000       0x30 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\main2.c.o
  .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
  .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
  .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
@@ -529,7 +515,6 @@ LOAD CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkv
 LOAD CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
 LOAD CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Timer.c.o
 LOAD CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Version.c.o
-LOAD CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\main2.c.o
 START GROUP
 LOAD c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
 LOAD c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
@@ -977,23 +962,23 @@ END GROUP
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x0000000000000000     0x4fd6
+.debug_info     0x0000000000000000     0x5016
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x0000000000000000      0x5f4 C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5/crtatmega328p.o
  .debug_info    0x00000000000005f4      0x306 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Debug.c.o
  .debug_info    0x00000000000008fa      0x355 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Eeprom.c.o
- .debug_info    0x0000000000000c4f      0x687 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
- .debug_info    0x00000000000012d6      0x709 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
- .debug_info    0x00000000000019df      0x2bc CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Init.c.o
- .debug_info    0x0000000000001c9b      0x475 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Main.c.o
- .debug_info    0x0000000000002110     0x1489 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
- .debug_info    0x0000000000003599      0x76a CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
- .debug_info    0x0000000000003d03      0x2ee CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SysTimer.c.o
- .debug_info    0x0000000000003ff1      0x8de CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
- .debug_info    0x00000000000048cf      0x361 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Timer.c.o
- .debug_info    0x0000000000004c30      0x256 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Version.c.o
- .debug_info    0x0000000000004e86       0xa8 C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5\libatmega328p.a(eerd_byte.o)
- .debug_info    0x0000000000004f2e       0xa8 C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5\libatmega328p.a(eewr_byte.o)
+ .debug_info    0x0000000000000c4f      0x6a3 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
+ .debug_info    0x00000000000012f2      0x71b CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+ .debug_info    0x0000000000001a0d      0x2bc CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Init.c.o
+ .debug_info    0x0000000000001cc9      0x475 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Main.c.o
+ .debug_info    0x000000000000213e     0x149b CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
+ .debug_info    0x00000000000035d9      0x76a CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+ .debug_info    0x0000000000003d43      0x2ee CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SysTimer.c.o
+ .debug_info    0x0000000000004031      0x8de CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+ .debug_info    0x000000000000490f      0x361 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Timer.c.o
+ .debug_info    0x0000000000004c70      0x256 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Version.c.o
+ .debug_info    0x0000000000004ec6       0xa8 C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5\libatmega328p.a(eerd_byte.o)
+ .debug_info    0x0000000000004f6e       0xa8 C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5\libatmega328p.a(eewr_byte.o)
 
 .debug_abbrev   0x0000000000000000     0x11ab
  *(.debug_abbrev)
@@ -1013,23 +998,23 @@ END GROUP
  .debug_abbrev  0x0000000000001183       0x14 C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5\libatmega328p.a(eerd_byte.o)
  .debug_abbrev  0x0000000000001197       0x14 C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5\libatmega328p.a(eewr_byte.o)
 
-.debug_line     0x0000000000000000     0x254c
+.debug_line     0x0000000000000000     0x2558
  *(.debug_line .debug_line.* .debug_line_end)
  .debug_line    0x0000000000000000      0x134 C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5/crtatmega328p.o
  .debug_line    0x0000000000000134       0xd7 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Debug.c.o
  .debug_line    0x000000000000020b      0x132 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Eeprom.c.o
  .debug_line    0x000000000000033d      0x344 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
- .debug_line    0x0000000000000681      0x412 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
- .debug_line    0x0000000000000a93      0x204 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Init.c.o
- .debug_line    0x0000000000000c97      0x1a0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Main.c.o
- .debug_line    0x0000000000000e37      0x9a2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
- .debug_line    0x00000000000017d9      0x4c6 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
- .debug_line    0x0000000000001c9f      0x10f CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SysTimer.c.o
- .debug_line    0x0000000000001dae      0x4e7 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
- .debug_line    0x0000000000002295      0x142 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Timer.c.o
- .debug_line    0x00000000000023d7       0x5d CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Version.c.o
- .debug_line    0x0000000000002434       0x7a C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5\libatmega328p.a(eerd_byte.o)
- .debug_line    0x00000000000024ae       0x9e C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5\libatmega328p.a(eewr_byte.o)
+ .debug_line    0x0000000000000681      0x418 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+ .debug_line    0x0000000000000a99      0x204 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Init.c.o
+ .debug_line    0x0000000000000c9d      0x1a6 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Main.c.o
+ .debug_line    0x0000000000000e43      0x9a2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
+ .debug_line    0x00000000000017e5      0x4c6 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+ .debug_line    0x0000000000001cab      0x10f CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SysTimer.c.o
+ .debug_line    0x0000000000001dba      0x4e7 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+ .debug_line    0x00000000000022a1      0x142 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Timer.c.o
+ .debug_line    0x00000000000023e3       0x5d CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Version.c.o
+ .debug_line    0x0000000000002440       0x7a C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5\libatmega328p.a(eerd_byte.o)
+ .debug_line    0x00000000000024ba       0x9e C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5\libatmega328p.a(eewr_byte.o)
 
 .debug_frame    0x0000000000000000      0xccc
  *(.debug_frame)
@@ -1108,112 +1093,117 @@ LOAD data_init
                 0x0000000000000000       0x40 C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5/crtatmega328p.o
 
 .bss.g_logg_level
-                0x00000000008003ee        0x1
+                0x00000000008003f6        0x1
  .bss.g_logg_level
-                0x00000000008003ee        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Debug.c.o
-                0x00000000008003ee                g_logg_level
+                0x00000000008003f6        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Debug.c.o
+                0x00000000008003f6                g_logg_level
 
 .bss.m_our_serial_ports
-                0x00000000008003d9        0x3
+                0x00000000008003e1        0x3
  .bss.m_our_serial_ports
-                0x00000000008003d9        0x3 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
+                0x00000000008003e1        0x3 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
 
 .bss.m_our_timers
                 0x00000000008002f6       0x32
  .bss.m_our_timers
                 0x00000000008002f6       0x32 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
 
+.bss.m_our_switch
+                0x00000000008003ac        0x8
+ .bss.m_our_switch
+                0x00000000008003ac        0x8 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
+
 .bss.g_switch_status
-                0x00000000008003ef        0x1
+                0x00000000008003f7        0x1
  .bss.g_switch_status
-                0x00000000008003ef        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x00000000008003f7        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
 
 .bss.m_sw_1_was_pressed
-                0x00000000008003f0        0x1
+                0x00000000008003f8        0x1
  .bss.m_sw_1_was_pressed
-                0x00000000008003f0        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x00000000008003f8        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
 
 .bss.m_sw_2_was_pressed
-                0x00000000008003f1        0x1
+                0x00000000008003f9        0x1
  .bss.m_sw_2_was_pressed
-                0x00000000008003f1        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x00000000008003f9        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
 
 .bss.m_long_press_timer_1
-                0x00000000008003f2        0x1
+                0x00000000008003fa        0x1
  .bss.m_long_press_timer_1
-                0x00000000008003f2        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x00000000008003fa        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
 
 .bss.m_long_press_timer_2
-                0x00000000008003f3        0x1
+                0x00000000008003fb        0x1
  .bss.m_long_press_timer_2
-                0x00000000008003f3        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x00000000008003fb        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
 
 .bss.g_stop_tacho_func
-                0x00000000008003f4        0x1
+                0x00000000008003fc        0x1
  .bss.g_stop_tacho_func
-                0x00000000008003f4        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Main.c.o
-                0x00000000008003f4                g_stop_tacho_func
+                0x00000000008003fc        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Main.c.o
+                0x00000000008003fc                g_stop_tacho_func
 
 .bss.g_reset_reason
-                0x00000000008003f5        0x1
+                0x00000000008003fd        0x1
  .bss.g_reset_reason
-                0x00000000008003f5        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Main.c.o
-                0x00000000008003f5                g_reset_reason
+                0x00000000008003fd        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Main.c.o
+                0x00000000008003fd                g_reset_reason
 
 .bss.m_sequence
-                0x00000000008003f6        0x1
+                0x00000000008003fe        0x1
  .bss.m_sequence
-                0x00000000008003f6        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
+                0x00000000008003fe        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
 .bss.m_temp_str
-                0x00000000008003ac        0x8
+                0x00000000008003b4        0x8
  .bss.m_temp_str
-                0x00000000008003ac        0x8 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
+                0x00000000008003b4        0x8 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-.bss.m_mode_sec.2527
-                0x00000000008003f7        0x1
- .bss.m_mode_sec.2527
-                0x00000000008003f7        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
+.bss.m_mode_sec.2530
+                0x00000000008003ff        0x1
+ .bss.m_mode_sec.2530
+                0x00000000008003ff        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-.bss.m_mode.2526
-                0x00000000008003f8        0x1
- .bss.m_mode.2526
-                0x00000000008003f8        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
+.bss.m_mode.2529
+                0x0000000000800400        0x1
+ .bss.m_mode.2529
+                0x0000000000800400        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-.bss.value_sec.2528
-                0x00000000008003dc        0x2
- .bss.value_sec.2528
-                0x00000000008003dc        0x2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
+.bss.value_sec.2531
+                0x00000000008003e4        0x2
+ .bss.value_sec.2531
+                0x00000000008003e4        0x2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
 .bss.rx_counter_0
-                0x00000000008003de        0x2
- .bss.rx_counter_0
-                0x00000000008003de        0x2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
-
-.bss.tx_counter_0
-                0x00000000008003e0        0x2
- .bss.tx_counter_0
-                0x00000000008003e0        0x2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
-
-.bss.rx_emptyp_0
-                0x00000000008003e2        0x2
- .bss.rx_emptyp_0
-                0x00000000008003e2        0x2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
-
-.bss.rx_fillp_0
-                0x00000000008003e4        0x2
- .bss.rx_fillp_0
-                0x00000000008003e4        0x2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
-
-.bss.tx_emptyp_0
                 0x00000000008003e6        0x2
- .bss.tx_emptyp_0
+ .bss.rx_counter_0
                 0x00000000008003e6        0x2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
 
-.bss.tx_fillp_0
+.bss.tx_counter_0
                 0x00000000008003e8        0x2
- .bss.tx_fillp_0
+ .bss.tx_counter_0
                 0x00000000008003e8        0x2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+
+.bss.rx_emptyp_0
+                0x00000000008003ea        0x2
+ .bss.rx_emptyp_0
+                0x00000000008003ea        0x2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+
+.bss.rx_fillp_0
+                0x00000000008003ec        0x2
+ .bss.rx_fillp_0
+                0x00000000008003ec        0x2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+
+.bss.tx_emptyp_0
+                0x00000000008003ee        0x2
+ .bss.tx_emptyp_0
+                0x00000000008003ee        0x2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+
+.bss.tx_fillp_0
+                0x00000000008003f0        0x2
+ .bss.tx_fillp_0
+                0x00000000008003f0        0x2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
 
 .bss.rx_fifo_0  0x0000000000800328       0x32
  .bss.rx_fifo_0
@@ -1223,252 +1213,252 @@ LOAD data_init
  .bss.tx_fifo_0
                 0x0000000000800102      0x1f4 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
 
-.bss.rx_stat_0  0x00000000008003f9        0x1
+.bss.rx_stat_0  0x0000000000800401        0x1
  .bss.rx_stat_0
-                0x00000000008003f9        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+                0x0000000000800401        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
 
 .bss.sp_flow_mode_0
-                0x00000000008003fa        0x1
+                0x0000000000800402        0x1
  .bss.sp_flow_mode_0
-                0x00000000008003fa        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+                0x0000000000800402        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
 
-.bss.rx_xoff_0  0x00000000008003fb        0x1
+.bss.rx_xoff_0  0x0000000000800403        0x1
  .bss.rx_xoff_0
-                0x00000000008003fb        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+                0x0000000000800403        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
 
 .bss.xoff_sent_0
-                0x00000000008003fc        0x1
+                0x0000000000800404        0x1
  .bss.xoff_sent_0
-                0x00000000008003fc        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+                0x0000000000800404        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
 
-.bss.system_timer_busy.1962
-                0x00000000008003fd        0x1
- .bss.system_timer_busy.1962
-                0x00000000008003fd        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SysTimer.c.o
+.bss.system_timer_busy.1965
+                0x0000000000800405        0x1
+ .bss.system_timer_busy.1965
+                0x0000000000800405        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SysTimer.c.o
 
 .bss.m_breaker_count
-                0x00000000008003c5        0x4
- .bss.m_breaker_count
-                0x00000000008003c5        0x4 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
-
-.bss.m_timer_count
-                0x00000000008003c9        0x4
- .bss.m_timer_count
-                0x00000000008003c9        0x4 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
-
-.bss.m_new_counter_value
                 0x00000000008003cd        0x4
- .bss.m_new_counter_value
+ .bss.m_breaker_count
                 0x00000000008003cd        0x4 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
 
+.bss.m_timer_count
+                0x00000000008003d1        0x4
+ .bss.m_timer_count
+                0x00000000008003d1        0x4 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+
+.bss.m_new_counter_value
+                0x00000000008003d5        0x4
+ .bss.m_new_counter_value
+                0x00000000008003d5        0x4 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+
 .bss.m_TCNT0_value
-                0x0000000000800400        0x1
+                0x0000000000800408        0x1
  .bss.m_TCNT0_value
-                0x0000000000800400        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+                0x0000000000800408        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
 
 .bss.m_tacho_calib_val
                 0x000000000080035a       0x18
  .bss.m_tacho_calib_val
                 0x000000000080035a       0x18 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
 
-.bss.old_breaker_count.2242
-                0x00000000008003d1        0x4
- .bss.old_breaker_count.2242
-                0x00000000008003d1        0x4 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+.bss.old_breaker_count.2243
+                0x00000000008003d9        0x4
+ .bss.old_breaker_count.2243
+                0x00000000008003d9        0x4 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
 
-.bss.old_timer_count.2241
-                0x00000000008003d5        0x4
- .bss.old_timer_count.2241
-                0x00000000008003d5        0x4 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+.bss.old_timer_count.2242
+                0x00000000008003dd        0x4
+ .bss.old_timer_count.2242
+                0x00000000008003dd        0x4 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
 
-.bss.old_TCNT0_value.2243
-                0x0000000000800405        0x1
- .bss.old_TCNT0_value.2243
-                0x0000000000800405        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+.bss.old_TCNT0_value.2244
+                0x000000000080040d        0x1
+ .bss.old_TCNT0_value.2244
+                0x000000000080040d        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
 
-progmem.data.__c.2590
+progmem.data.__c.2593
                 0x0000000000000192       0x3a
- progmem.data.__c.2590
+ progmem.data.__c.2593
                 0x0000000000000192       0x3a CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2578
+progmem.data.__c.2581
                 0x00000000000001cc       0x32
- progmem.data.__c.2578
+ progmem.data.__c.2581
                 0x00000000000001cc       0x32 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2576
+progmem.data.__c.2579
                 0x00000000000001fe       0x31
- progmem.data.__c.2576
+ progmem.data.__c.2579
                 0x00000000000001fe       0x31 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2490
+progmem.data.__c.2493
                 0x000000000000022f       0x30
- progmem.data.__c.2490
+ progmem.data.__c.2493
                 0x000000000000022f       0x30 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2572
+progmem.data.__c.2575
                 0x000000000000025f       0x30
- progmem.data.__c.2572
+ progmem.data.__c.2575
                 0x000000000000025f       0x30 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2464
+progmem.data.__c.2467
                 0x000000000000028f       0x2f
- progmem.data.__c.2464
+ progmem.data.__c.2467
                 0x000000000000028f       0x2f CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2466
+progmem.data.__c.2469
                 0x00000000000002be       0x2f
- progmem.data.__c.2466
+ progmem.data.__c.2469
                 0x00000000000002be       0x2f CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2468
+progmem.data.__c.2471
                 0x00000000000002ed       0x2f
- progmem.data.__c.2468
+ progmem.data.__c.2471
                 0x00000000000002ed       0x2f CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2470
+progmem.data.__c.2473
                 0x000000000000031c       0x2f
- progmem.data.__c.2470
+ progmem.data.__c.2473
                 0x000000000000031c       0x2f CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2472
+progmem.data.__c.2475
                 0x000000000000034b       0x2f
- progmem.data.__c.2472
+ progmem.data.__c.2475
                 0x000000000000034b       0x2f CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2474
+progmem.data.__c.2477
                 0x000000000000037a       0x2f
- progmem.data.__c.2474
+ progmem.data.__c.2477
                 0x000000000000037a       0x2f CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2476
+progmem.data.__c.2479
                 0x00000000000003a9       0x2f
- progmem.data.__c.2476
+ progmem.data.__c.2479
                 0x00000000000003a9       0x2f CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2478
+progmem.data.__c.2481
                 0x00000000000003d8       0x2f
- progmem.data.__c.2478
+ progmem.data.__c.2481
                 0x00000000000003d8       0x2f CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2480
+progmem.data.__c.2483
                 0x0000000000000407       0x2f
- progmem.data.__c.2480
+ progmem.data.__c.2483
                 0x0000000000000407       0x2f CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2482
+progmem.data.__c.2485
                 0x0000000000000436       0x2f
- progmem.data.__c.2482
+ progmem.data.__c.2485
                 0x0000000000000436       0x2f CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2484
+progmem.data.__c.2487
                 0x0000000000000465       0x2f
- progmem.data.__c.2484
+ progmem.data.__c.2487
                 0x0000000000000465       0x2f CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2486
+progmem.data.__c.2489
                 0x0000000000000494       0x2f
- progmem.data.__c.2486
+ progmem.data.__c.2489
                 0x0000000000000494       0x2f CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2488
+progmem.data.__c.2491
                 0x00000000000004c3       0x2f
- progmem.data.__c.2488
+ progmem.data.__c.2491
                 0x00000000000004c3       0x2f CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2560
+progmem.data.__c.2563
                 0x00000000000004f2       0x2c
- progmem.data.__c.2560
+ progmem.data.__c.2563
                 0x00000000000004f2       0x2c CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2562
+progmem.data.__c.2565
                 0x000000000000051e       0x2b
- progmem.data.__c.2562
+ progmem.data.__c.2565
                 0x000000000000051e       0x2b CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2582
+progmem.data.__c.2585
                 0x0000000000000549       0x23
- progmem.data.__c.2582
+ progmem.data.__c.2585
                 0x0000000000000549       0x23 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2537
+progmem.data.__c.2540
                 0x000000000000056c       0x22
- progmem.data.__c.2537
+ progmem.data.__c.2540
                 0x000000000000056c       0x22 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2584
+progmem.data.__c.2587
                 0x000000000000058e       0x1f
- progmem.data.__c.2584
+ progmem.data.__c.2587
                 0x000000000000058e       0x1f CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2586
+progmem.data.__c.2589
                 0x00000000000005ad       0x1f
- progmem.data.__c.2586
+ progmem.data.__c.2589
                 0x00000000000005ad       0x1f CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2544
+progmem.data.__c.2547
                 0x00000000000005cc       0x1e
- progmem.data.__c.2544
+ progmem.data.__c.2547
                 0x00000000000005cc       0x1e CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2550
+progmem.data.__c.2553
                 0x00000000000005ea       0x1c
- progmem.data.__c.2550
+ progmem.data.__c.2553
                 0x00000000000005ea       0x1c CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2610
+progmem.data.__c.2613
                 0x0000000000000606       0x1b
- progmem.data.__c.2610
+ progmem.data.__c.2613
                 0x0000000000000606       0x1b CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2626
+progmem.data.__c.2629
                 0x0000000000000621       0x19
- progmem.data.__c.2626
+ progmem.data.__c.2629
                 0x0000000000000621       0x19 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2630
+progmem.data.__c.2633
                 0x000000000000063a       0x19
- progmem.data.__c.2630
+ progmem.data.__c.2633
                 0x000000000000063a       0x19 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2594
+progmem.data.__c.2597
                 0x0000000000000653       0x18
- progmem.data.__c.2594
+ progmem.data.__c.2597
                 0x0000000000000653       0x18 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2564
+progmem.data.__c.2567
                 0x000000000000066b       0x17
- progmem.data.__c.2564
+ progmem.data.__c.2567
                 0x000000000000066b       0x17 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2639
+progmem.data.__c.2642
                 0x0000000000000682       0x17
- progmem.data.__c.2639
+ progmem.data.__c.2642
                 0x0000000000000682       0x17 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2678
+progmem.data.__c.2681
                 0x0000000000000699       0x17
- progmem.data.__c.2678
+ progmem.data.__c.2681
                 0x0000000000000699       0x17 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2535
+progmem.data.__c.2538
                 0x00000000000006b0       0x16
- progmem.data.__c.2535
+ progmem.data.__c.2538
                 0x00000000000006b0       0x16 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2542
+progmem.data.__c.2545
                 0x00000000000006c6       0x16
- progmem.data.__c.2542
+ progmem.data.__c.2545
                 0x00000000000006c6       0x16 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2637
+progmem.data.__c.2640
                 0x00000000000006dc       0x16
- progmem.data.__c.2637
+ progmem.data.__c.2640
                 0x00000000000006dc       0x16 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2653
+progmem.data.__c.2656
                 0x00000000000006f2       0x16
- progmem.data.__c.2653
+ progmem.data.__c.2656
                 0x00000000000006f2       0x16 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
 progmem.data.s_wrong_selection
@@ -1476,109 +1466,109 @@ progmem.data.s_wrong_selection
  progmem.data.s_wrong_selection
                 0x0000000000000708       0x15 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2548
+progmem.data.__c.2551
                 0x000000000000071d       0x14
- progmem.data.__c.2548
+ progmem.data.__c.2551
                 0x000000000000071d       0x14 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2558
+progmem.data.__c.2561
                 0x0000000000000731       0x14
- progmem.data.__c.2558
+ progmem.data.__c.2561
                 0x0000000000000731       0x14 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2272
+progmem.data.__c.2277
                 0x0000000000000745       0x13
- progmem.data.__c.2272
+ progmem.data.__c.2277
                 0x0000000000000745       0x13 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Main.c.o
 
-progmem.data.__c.2566
+progmem.data.__c.2569
                 0x0000000000000758       0x13
- progmem.data.__c.2566
+ progmem.data.__c.2569
                 0x0000000000000758       0x13 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2618
+progmem.data.__c.2621
                 0x000000000000076b       0x13
- progmem.data.__c.2618
+ progmem.data.__c.2621
                 0x000000000000076b       0x13 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2647
+progmem.data.__c.2650
                 0x000000000000077e       0x13
- progmem.data.__c.2647
+ progmem.data.__c.2650
                 0x000000000000077e       0x13 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2601
+progmem.data.__c.2604
                 0x0000000000000791       0x12
- progmem.data.__c.2601
+ progmem.data.__c.2604
                 0x0000000000000791       0x12 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2604
+progmem.data.__c.2607
                 0x00000000000007a3       0x12
- progmem.data.__c.2604
+ progmem.data.__c.2607
                 0x00000000000007a3       0x12 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2641
+progmem.data.__c.2644
                 0x00000000000007b5       0x12
- progmem.data.__c.2641
+ progmem.data.__c.2644
                 0x00000000000007b5       0x12 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2645
+progmem.data.__c.2648
                 0x00000000000007c7       0x12
- progmem.data.__c.2645
+ progmem.data.__c.2648
                 0x00000000000007c7       0x12 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2570
+progmem.data.__c.2573
                 0x00000000000007d9       0x11
- progmem.data.__c.2570
+ progmem.data.__c.2573
                 0x00000000000007d9       0x11 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2643
+progmem.data.__c.2646
                 0x00000000000007ea       0x11
- progmem.data.__c.2643
+ progmem.data.__c.2646
                 0x00000000000007ea       0x11 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2649
+progmem.data.__c.2652
                 0x00000000000007fb       0x11
- progmem.data.__c.2649
+ progmem.data.__c.2652
                 0x00000000000007fb       0x11 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2651
+progmem.data.__c.2654
                 0x000000000000080c       0x11
- progmem.data.__c.2651
+ progmem.data.__c.2654
                 0x000000000000080c       0x11 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2554
+progmem.data.__c.2557
                 0x000000000000081d       0x10
- progmem.data.__c.2554
+ progmem.data.__c.2557
                 0x000000000000081d       0x10 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2674
+progmem.data.__c.2677
                 0x000000000000082d       0x10
- progmem.data.__c.2674
+ progmem.data.__c.2677
                 0x000000000000082d       0x10 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2574
+progmem.data.__c.2577
                 0x000000000000083d        0xf
- progmem.data.__c.2574
+ progmem.data.__c.2577
                 0x000000000000083d        0xf CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2616
+progmem.data.__c.2619
                 0x000000000000084c        0xf
- progmem.data.__c.2616
+ progmem.data.__c.2619
                 0x000000000000084c        0xf CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2612
+progmem.data.__c.2615
                 0x000000000000085b        0xe
- progmem.data.__c.2612
+ progmem.data.__c.2615
                 0x000000000000085b        0xe CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2459
+progmem.data.__c.2462
                 0x0000000000000869        0xd
- progmem.data.__c.2459
+ progmem.data.__c.2462
                 0x0000000000000869        0xd CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2588
+progmem.data.__c.2591
                 0x0000000000000876        0xd
- progmem.data.__c.2588
+ progmem.data.__c.2591
                 0x0000000000000876        0xd CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
 progmem.data.s_logg_on
@@ -1586,74 +1576,74 @@ progmem.data.s_logg_on
  progmem.data.s_logg_on
                 0x0000000000000883        0xc CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2614
+progmem.data.__c.2617
                 0x000000000000088f        0xc
- progmem.data.__c.2614
+ progmem.data.__c.2617
                 0x000000000000088f        0xc CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2635
+progmem.data.__c.2638
                 0x000000000000089b        0xc
- progmem.data.__c.2635
+ progmem.data.__c.2638
                 0x000000000000089b        0xc CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2662
+progmem.data.__c.2665
                 0x00000000000008a7        0xc
- progmem.data.__c.2662
+ progmem.data.__c.2665
                 0x00000000000008a7        0xc CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2531
+progmem.data.__c.2534
                 0x00000000000008b3        0xb
- progmem.data.__c.2531
+ progmem.data.__c.2534
                 0x00000000000008b3        0xb CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2665
+progmem.data.__c.2668
                 0x00000000000008be        0xb
- progmem.data.__c.2665
+ progmem.data.__c.2668
                 0x00000000000008be        0xb CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2656
+progmem.data.__c.2659
                 0x00000000000008c9        0xa
- progmem.data.__c.2656
+ progmem.data.__c.2659
                 0x00000000000008c9        0xa CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2659
+progmem.data.__c.2662
                 0x00000000000008d3        0xa
- progmem.data.__c.2659
+ progmem.data.__c.2662
                 0x00000000000008d3        0xa CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2668
+progmem.data.__c.2671
                 0x00000000000008dd        0xa
- progmem.data.__c.2668
+ progmem.data.__c.2671
                 0x00000000000008dd        0xa CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2680
+progmem.data.__c.2683
                 0x00000000000008e7        0xa
- progmem.data.__c.2680
+ progmem.data.__c.2683
                 0x00000000000008e7        0xa CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2628
+progmem.data.__c.2631
                 0x00000000000008f1        0x9
- progmem.data.__c.2628
+ progmem.data.__c.2631
                 0x00000000000008f1        0x9 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2510
+progmem.data.__c.2513
                 0x00000000000008fa        0x8
- progmem.data.__c.2510
+ progmem.data.__c.2513
                 0x00000000000008fa        0x8 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2608
+progmem.data.__c.2611
                 0x0000000000000902        0x8
- progmem.data.__c.2608
+ progmem.data.__c.2611
                 0x0000000000000902        0x8 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2632
+progmem.data.__c.2635
                 0x000000000000090a        0x8
- progmem.data.__c.2632
+ progmem.data.__c.2635
                 0x000000000000090a        0x8 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2671
+progmem.data.__c.2674
                 0x0000000000000912        0x8
- progmem.data.__c.2671
+ progmem.data.__c.2674
                 0x0000000000000912        0x8 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
 progmem.data.s_err_msg
@@ -1661,9 +1651,9 @@ progmem.data.s_err_msg
  progmem.data.s_err_msg
                 0x000000000000091a        0x6 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2512
+progmem.data.__c.2515
                 0x0000000000000920        0x6
- progmem.data.__c.2512
+ progmem.data.__c.2515
                 0x0000000000000920        0x6 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
 progmem.data.g_version
@@ -1672,14 +1662,14 @@ progmem.data.g_version
                 0x0000000000000926        0x6 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Version.c.o
                 0x0000000000000926                g_version
 
-progmem.data.__c.2596
+progmem.data.__c.2599
                 0x000000000000092c        0x4
- progmem.data.__c.2596
+ progmem.data.__c.2599
                 0x000000000000092c        0x4 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2274
+progmem.data.__c.2279
                 0x0000000000000930        0x3
- progmem.data.__c.2274
+ progmem.data.__c.2279
                 0x0000000000000930        0x3 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Main.c.o
 
 progmem.data.s_OK_msg
@@ -1697,14 +1687,14 @@ progmem.data.s_promt_msg
  progmem.data.s_promt_msg
                 0x0000000000000939        0x3 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2598
+progmem.data.__c.2601
                 0x000000000000093c        0x3
- progmem.data.__c.2598
+ progmem.data.__c.2601
                 0x000000000000093c        0x3 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-progmem.data.__c.2621
+progmem.data.__c.2624
                 0x000000000000093f        0x3
- progmem.data.__c.2621
+ progmem.data.__c.2624
                 0x000000000000093f        0x3 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
 .text.monitor_main
@@ -1735,636 +1725,642 @@ progmem.data.__c.2621
                 0x0000000000001bd2                __fmt_x_needed
                 0x0000000000001bd2                __fmt_x
 
-.text.tacho_init
-                0x0000000000001dae      0x122
- .text.tacho_init
-                0x0000000000001dae      0x122 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
-                0x0000000000001dae                tacho_init
+.text.hndl_handler_init
+                0x0000000000001dae      0x128
+ .text.hndl_handler_init
+                0x0000000000001dae      0x128 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
+                0x0000000000001dae                hndl_handler_init
 
-.text.main      0x0000000000001ed0       0xfc
- .text.main     0x0000000000001ed0       0xfc CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Main.c.o
-                0x0000000000001ed0                main
+.text.tacho_init
+                0x0000000000001ed6      0x122
+ .text.tacho_init
+                0x0000000000001ed6      0x122 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+                0x0000000000001ed6                tacho_init
+
+.text.main      0x0000000000001ff8      0x100
+ .text.main     0x0000000000001ff8      0x100 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Main.c.o
+                0x0000000000001ff8                main
 
 .text.io_handle_read_switch
-                0x0000000000001fcc       0xf0
+                0x00000000000020f8       0xf2
  .text.io_handle_read_switch
-                0x0000000000001fcc       0xf0 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
-                0x0000000000001fcc                io_handle_read_switch
+                0x00000000000020f8       0xf2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x00000000000020f8                io_handle_read_switch
 
 .text.hndl_set_timer_callback
-                0x00000000000020bc       0xe4
+                0x00000000000021ea       0xe4
  .text.hndl_set_timer_callback
-                0x00000000000020bc       0xe4 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
-                0x00000000000020bc                hndl_set_timer_callback
+                0x00000000000021ea       0xe4 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
+                0x00000000000021ea                hndl_set_timer_callback
 
-.text.__fmt_d   0x00000000000021a0       0xe4
- .text.__fmt_d  0x00000000000021a0       0xe4 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_d.o)
-                0x00000000000021a0                __fmt_d
-                0x00000000000021a0                __fmt_d_needed
+.text.__fmt_d   0x00000000000022ce       0xe4
+ .text.__fmt_d  0x00000000000022ce       0xe4 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_d.o)
+                0x00000000000022ce                __fmt_d
+                0x00000000000022ce                __fmt_d_needed
 
-.text.sp_init   0x0000000000002284       0xd2
- .text.sp_init  0x0000000000002284       0xd2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
-                0x0000000000002284                sp_init
+.text.sp_init   0x00000000000023b2       0xd2
+ .text.sp_init  0x00000000000023b2       0xd2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+                0x00000000000023b2                sp_init
 
 .text.__pop_int
-                0x0000000000002356       0xd0
+                0x0000000000002484       0xd0
  .text.__pop_int
-                0x0000000000002356       0xd0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_int.o)
-                0x0000000000002356                __pop_int_needed
-                0x0000000000002356                __pop_int
+                0x0000000000002484       0xd0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_int.o)
+                0x0000000000002484                __pop_int_needed
+                0x0000000000002484                __pop_int
 
 .text.__vector_18
-                0x0000000000002426       0xca
+                0x0000000000002554       0xca
  .text.__vector_18
-                0x0000000000002426       0xca CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
-                0x0000000000002426                __vector_18
+                0x0000000000002554       0xca CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+                0x0000000000002554                __vector_18
 
-.text.__cvt_u   0x00000000000024f0       0xca
- .text.__cvt_u  0x00000000000024f0       0xca c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_u.o)
-                0x00000000000024f0                __cvt_u
+.text.__cvt_u   0x000000000000261e       0xca
+ .text.__cvt_u  0x000000000000261e       0xca c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_u.o)
+                0x000000000000261e                __cvt_u
 
 .text.tac_handle_red_LED
-                0x00000000000025ba       0xc8
+                0x00000000000026e8       0xc8
  .text.tac_handle_red_LED
-                0x00000000000025ba       0xc8 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
-                0x00000000000025ba                tac_handle_red_LED
+                0x00000000000026e8       0xc8 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+                0x00000000000026e8                tac_handle_red_LED
 
 .text.__vector_6
-                0x0000000000002682       0xbe
+                0x00000000000027b0       0xbe
  .text.__vector_6
-                0x0000000000002682       0xbe CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SysTimer.c.o
-                0x0000000000002682                __vector_6
+                0x00000000000027b0       0xbe CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SysTimer.c.o
+                0x00000000000027b0                __vector_6
 
-.text.__fmt_o   0x0000000000002740       0xb2
- .text.__fmt_o  0x0000000000002740       0xb2 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_o.o)
-                0x0000000000002740                __fmt_o
-                0x0000000000002740                __fmt_o_needed
+.text.__fmt_o   0x000000000000286e       0xb2
+ .text.__fmt_o  0x000000000000286e       0xb2 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_o.o)
+                0x000000000000286e                __fmt_o
+                0x000000000000286e                __fmt_o_needed
 
 .text.UART_0_transmit
-                0x00000000000027f2       0xac
+                0x0000000000002920       0xac
  .text.UART_0_transmit
-                0x00000000000027f2       0xac CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+                0x0000000000002920       0xac CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
 
 .text.read_our_temp_string
-                0x000000000000289e       0xa2
+                0x00000000000029cc       0xa2
  .text.read_our_temp_string
-                0x000000000000289e       0xa2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
+                0x00000000000029cc       0xa2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-.text.fputc     0x0000000000002940       0x98
- .text.fputc    0x0000000000002940       0x98 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
-                0x0000000000002940                fputc
-                0x0000000000002940                putc
+.text.fputc     0x0000000000002a6e       0x98
+ .text.fputc    0x0000000000002a6e       0x98 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x0000000000002a6e                fputc
+                0x0000000000002a6e                putc
 
 .text.tac_handle_green_LED
-                0x00000000000029d8       0x94
+                0x0000000000002b06       0x94
  .text.tac_handle_green_LED
-                0x00000000000029d8       0x94 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
-                0x00000000000029d8                tac_handle_green_LED
+                0x0000000000002b06       0x94 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+                0x0000000000002b06                tac_handle_green_LED
 
-.text.__fmt_u   0x0000000000002a6c       0x8e
- .text.__fmt_u  0x0000000000002a6c       0x8e c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_u.o)
-                0x0000000000002a6c                __fmt_u_needed
-                0x0000000000002a6c                __fmt_u
+.text.__fmt_u   0x0000000000002b9a       0x8e
+ .text.__fmt_u  0x0000000000002b9a       0x8e c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_u.o)
+                0x0000000000002b9a                __fmt_u_needed
+                0x0000000000002b9a                __fmt_u
 
 .text.hndl_set_serial_port_callback
-                0x0000000000002afa       0x8c
+                0x0000000000002c28       0x8c
  .text.hndl_set_serial_port_callback
-                0x0000000000002afa       0x8c CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
-                0x0000000000002afa                hndl_set_serial_port_callback
+                0x0000000000002c28       0x8c CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Handler.c.o
+                0x0000000000002c28                hndl_set_serial_port_callback
 
-.text.init_HW   0x0000000000002b86       0x8c
- .text.init_HW  0x0000000000002b86       0x8c CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Init.c.o
-                0x0000000000002b86                init_HW
+.text.init_HW   0x0000000000002cb4       0x8c
+ .text.init_HW  0x0000000000002cb4       0x8c CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Init.c.o
+                0x0000000000002cb4                init_HW
 
 .text.__vector_2
-                0x0000000000002c12       0x8c
+                0x0000000000002d40       0x8c
  .text.__vector_2
-                0x0000000000002c12       0x8c CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
-                0x0000000000002c12                __vector_2
+                0x0000000000002d40       0x8c CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+                0x0000000000002d40                __vector_2
 
 .text.help_menu_1
-                0x0000000000002c9e       0x80
+                0x0000000000002dcc       0x80
  .text.help_menu_1
-                0x0000000000002c9e       0x80 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
+                0x0000000000002dcc       0x80 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
 .text.sp_putc_0
-                0x0000000000002d1e       0x78
+                0x0000000000002e4c       0x78
  .text.sp_putc_0
-                0x0000000000002d1e       0x78 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+                0x0000000000002e4c       0x78 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
 
 .text.sp_getc_0
-                0x0000000000002d96       0x76
+                0x0000000000002ec4       0x76
  .text.sp_getc_0
-                0x0000000000002d96       0x76 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+                0x0000000000002ec4       0x76 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
 
 .text.__vsnprintf
-                0x0000000000002e0c       0x74
+                0x0000000000002f3a       0x74
  .text.__vsnprintf
-                0x0000000000002e0c       0x74 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsnprintf.o)
-                0x0000000000002e0c                __vsnprintf
+                0x0000000000002f3a       0x74 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsnprintf.o)
+                0x0000000000002f3a                __vsnprintf
 
 .text.sp_puts_flash
-                0x0000000000002e80       0x72
+                0x0000000000002fae       0x72
  .text.sp_puts_flash
-                0x0000000000002e80       0x72 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
-                0x0000000000002e80                sp_puts_flash
+                0x0000000000002fae       0x72 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+                0x0000000000002fae                sp_puts_flash
 
 .text.tim_get_diff_thenths
-                0x0000000000002ef2       0x72
+                0x0000000000003020       0x72
  .text.tim_get_diff_thenths
-                0x0000000000002ef2       0x72 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Timer.c.o
-                0x0000000000002ef2                tim_get_diff_thenths
+                0x0000000000003020       0x72 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Timer.c.o
+                0x0000000000003020                tim_get_diff_thenths
 
-.text.__pad     0x0000000000002f64       0x72
- .text.__pad    0x0000000000002f64       0x72 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
-                0x0000000000002f64                __pad
+.text.__pad     0x0000000000003092       0x72
+ .text.__pad    0x0000000000003092       0x72 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+                0x0000000000003092                __pad
 
-.text.atoi      0x0000000000002fd6       0x72
- .text.atoi     0x0000000000002fd6       0x72 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(atoi.o)
-                0x0000000000002fd6                atoi
+.text.atoi      0x0000000000003104       0x72
+ .text.atoi     0x0000000000003104       0x72 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(atoi.o)
+                0x0000000000003104                atoi
 
 .text.put_long_to_str
-                0x0000000000003048       0x70
+                0x0000000000003176       0x70
  .text.put_long_to_str
-                0x0000000000003048       0x70 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
+                0x0000000000003176       0x70 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-.text.sp_getc   0x00000000000030b8       0x70
- .text.sp_getc  0x00000000000030b8       0x70 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
-                0x00000000000030b8                sp_getc
+.text.sp_getc   0x00000000000031e6       0x70
+ .text.sp_getc  0x00000000000031e6       0x70 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+                0x00000000000031e6                sp_getc
 
 .text.switch_is_just_pressed
-                0x0000000000003128       0x6c
+                0x0000000000003256       0x6c
  .text.switch_is_just_pressed
-                0x0000000000003128       0x6c CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x0000000000003256       0x6c CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
 
 .text.init_timer_1
-                0x0000000000003194       0x68
+                0x00000000000032c2       0x68
  .text.init_timer_1
-                0x0000000000003194       0x68 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Init.c.o
+                0x00000000000032c2       0x68 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Init.c.o
 
 .text.__printf_core
-                0x00000000000031fc       0x68
+                0x000000000000332a       0x68
  .text.__printf_core
-                0x00000000000031fc       0x68 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
-                0x00000000000031fc                __printf_core
+                0x000000000000332a       0x68 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+                0x000000000000332a                __printf_core
 
 .text.tac_set_calib_value
-                0x0000000000003264       0x66
+                0x0000000000003392       0x66
  .text.tac_set_calib_value
-                0x0000000000003264       0x66 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
-                0x0000000000003264                tac_set_calib_value
+                0x0000000000003392       0x66 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+                0x0000000000003392                tac_set_calib_value
 
 .text.put_int_to_str
-                0x00000000000032ca       0x60
+                0x00000000000033f8       0x60
  .text.put_int_to_str
-                0x00000000000032ca       0x60 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
+                0x00000000000033f8       0x60 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
 .text.put_int_to_hex_str
-                0x000000000000332a       0x60
+                0x0000000000003458       0x60
  .text.put_int_to_hex_str
-                0x000000000000332a       0x60 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
+                0x0000000000003458       0x60 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
 .text.tim_wait_thenths
-                0x000000000000338a       0x60
+                0x00000000000034b8       0x60
  .text.tim_wait_thenths
-                0x000000000000338a       0x60 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Timer.c.o
-                0x000000000000338a                tim_wait_thenths
+                0x00000000000034b8       0x60 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Timer.c.o
+                0x00000000000034b8                tim_wait_thenths
 
 .text.read_prec_or_width
-                0x00000000000033ea       0x5c
+                0x0000000000003518       0x5c
  .text.read_prec_or_width
-                0x00000000000033ea       0x5c c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+                0x0000000000003518       0x5c c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
 
 .text.tac_get_RPM
-                0x0000000000003446       0x5a
+                0x0000000000003574       0x5a
  .text.tac_get_RPM
-                0x0000000000003446       0x5a CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
-                0x0000000000003446                tac_get_RPM
+                0x0000000000003574       0x5a CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+                0x0000000000003574                tac_get_RPM
 
 .text.switch_is_just_released
-                0x00000000000034a0       0x58
+                0x00000000000035ce       0x58
  .text.switch_is_just_released
-                0x00000000000034a0       0x58 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x00000000000035ce       0x58 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
 
 .text.__vector_16
-                0x00000000000034f8       0x58
+                0x0000000000003626       0x58
  .text.__vector_16
-                0x00000000000034f8       0x58 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
-                0x00000000000034f8                __vector_16
+                0x0000000000003626       0x58 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+                0x0000000000003626                __vector_16
 
 .text.__vector_20
-                0x0000000000003550       0x56
+                0x000000000000367e       0x56
  .text.__vector_20
-                0x0000000000003550       0x56 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
-                0x0000000000003550                __vector_20
+                0x000000000000367e       0x56 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+                0x000000000000367e                __vector_20
 
-.text.__fmt_s   0x00000000000035a6       0x54
- .text.__fmt_s  0x00000000000035a6       0x54 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_s.o)
-                0x00000000000035a6                __fmt_s
-                0x00000000000035a6                __fmt_0_needed
-                0x00000000000035a6                __fmt_s_needed
+.text.__fmt_s   0x00000000000036d4       0x54
+ .text.__fmt_s  0x00000000000036d4       0x54 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_s.o)
+                0x00000000000036d4                __fmt_s
+                0x00000000000036d4                __fmt_0_needed
+                0x00000000000036d4                __fmt_s_needed
 
 .text.ee_write_byte
-                0x00000000000035fa       0x52
+                0x0000000000003728       0x52
  .text.ee_write_byte
-                0x00000000000035fa       0x52 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Eeprom.c.o
-                0x00000000000035fa                ee_write_byte
+                0x0000000000003728       0x52 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Eeprom.c.o
+                0x0000000000003728                ee_write_byte
 
 .text.ee_read_uint16
-                0x000000000000364c       0x50
+                0x000000000000377a       0x50
  .text.ee_read_uint16
-                0x000000000000364c       0x50 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Eeprom.c.o
-                0x000000000000364c                ee_read_uint16
+                0x000000000000377a       0x50 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Eeprom.c.o
+                0x000000000000377a                ee_read_uint16
 
 .text.io_set_duty_PWM_tacho
-                0x000000000000369c       0x4e
+                0x00000000000037ca       0x4e
  .text.io_set_duty_PWM_tacho
-                0x000000000000369c       0x4e CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
-                0x000000000000369c                io_set_duty_PWM_tacho
+                0x00000000000037ca       0x4e CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x00000000000037ca                io_set_duty_PWM_tacho
 
 .text.__vector_19
-                0x00000000000036ea       0x4c
+                0x0000000000003818       0x4c
  .text.__vector_19
-                0x00000000000036ea       0x4c CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
-                0x00000000000036ea                __vector_19
+                0x0000000000003818       0x4c CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+                0x0000000000003818                __vector_19
 
 .text.__vector_default
-                0x0000000000003736       0x48
+                0x0000000000003864       0x48
  .text.__vector_default
-                0x0000000000003736       0x48 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SysTimer.c.o
-                0x0000000000003736                __vector_default
+                0x0000000000003864       0x48 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SysTimer.c.o
+                0x0000000000003864                __vector_default
 
 .text.ee_write_uint16
-                0x000000000000377e       0x46
+                0x00000000000038ac       0x46
  .text.ee_write_uint16
-                0x000000000000377e       0x46 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Eeprom.c.o
-                0x000000000000377e                ee_write_uint16
+                0x00000000000038ac       0x46 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Eeprom.c.o
+                0x00000000000038ac                ee_write_uint16
 
 .text.init_timer_0
-                0x00000000000037c4       0x46
+                0x00000000000038f2       0x46
  .text.init_timer_0
-                0x00000000000037c4       0x46 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Init.c.o
+                0x00000000000038f2       0x46 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Init.c.o
 
 .text.libgcc.div
-                0x000000000000380a       0x44
+                0x0000000000003938       0x44
  .text.libgcc.div
-                0x000000000000380a       0x44 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
-                0x000000000000380a                __udivmodsi4
+                0x0000000000003938       0x44 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x0000000000003938                __udivmodsi4
 
 .text.io_set_petrol_pump
-                0x000000000000384e       0x42
+                0x000000000000397c       0x42
  .text.io_set_petrol_pump
-                0x000000000000384e       0x42 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
-                0x000000000000384e                io_set_petrol_pump
+                0x000000000000397c       0x42 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x000000000000397c                io_set_petrol_pump
 
 .text.read_timer_value
-                0x0000000000003890       0x42
+                0x00000000000039be       0x42
  .text.read_timer_value
-                0x0000000000003890       0x42 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Timer.c.o
+                0x00000000000039be       0x42 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Timer.c.o
 
 .text.init_analog
-                0x00000000000038d2       0x40
+                0x0000000000003a00       0x40
  .text.init_analog
-                0x00000000000038d2       0x40 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Init.c.o
+                0x0000000000003a00       0x40 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Init.c.o
 
-.text.sp_puts   0x0000000000003912       0x40
- .text.sp_puts  0x0000000000003912       0x40 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
-                0x0000000000003912                sp_puts
+.text.sp_puts   0x0000000000003a40       0x40
+ .text.sp_puts  0x0000000000003a40       0x40 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+                0x0000000000003a40                sp_puts
 
 .text.__fmt_state
-                0x0000000000003952       0x40
+                0x0000000000003a80       0x40
  .text.__fmt_state
-                0x0000000000003952       0x40 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
-                0x0000000000003952                __fmt_state
+                0x0000000000003a80       0x40 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+                0x0000000000003a80                __fmt_state
 
 .text.io_read_AD_value_continue
-                0x0000000000003992       0x3e
+                0x0000000000003ac0       0x3e
  .text.io_read_AD_value_continue
-                0x0000000000003992       0x3e CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
-                0x0000000000003992                io_read_AD_value_continue
+                0x0000000000003ac0       0x3e CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x0000000000003ac0                io_read_AD_value_continue
 
 .text.put_int_to_dec_and_hex_str
-                0x00000000000039d0       0x3a
+                0x0000000000003afe       0x3a
  .text.put_int_to_dec_and_hex_str
-                0x00000000000039d0       0x3a CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
+                0x0000000000003afe       0x3a CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
-.text.__out     0x0000000000003a0a       0x3a
- .text.__out    0x0000000000003a0a       0x3a c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
-                0x0000000000003a0a                __out
+.text.__out     0x0000000000003b38       0x3a
+ .text.__out    0x0000000000003b38       0x3a c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+                0x0000000000003b38                __out
 
-.text.sp_putc   0x0000000000003a44       0x38
- .text.sp_putc  0x0000000000003a44       0x38 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
-                0x0000000000003a44                sp_putc
+.text.sp_putc   0x0000000000003b72       0x38
+ .text.sp_putc  0x0000000000003b72       0x38 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+                0x0000000000003b72                sp_putc
 
 .text.libgcc.prologue
-                0x0000000000003a7c       0x38
+                0x0000000000003baa       0x38
  .text.libgcc.prologue
-                0x0000000000003a7c       0x38 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
-                0x0000000000003a7c                __prologue_saves__
+                0x0000000000003baa       0x38 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+                0x0000000000003baa                __prologue_saves__
 
 .text.io_read_AD_value
-                0x0000000000003ab4       0x36
+                0x0000000000003be2       0x36
  .text.io_read_AD_value
-                0x0000000000003ab4       0x36 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
-                0x0000000000003ab4                io_read_AD_value
+                0x0000000000003be2       0x36 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x0000000000003be2                io_read_AD_value
 
 .text.sp_clear_rx_fifo
-                0x0000000000003aea       0x36
+                0x0000000000003c18       0x36
  .text.sp_clear_rx_fifo
-                0x0000000000003aea       0x36 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
-                0x0000000000003aea                sp_clear_rx_fifo
+                0x0000000000003c18       0x36 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+                0x0000000000003c18                sp_clear_rx_fifo
 
 .text.libgcc.prologue
-                0x0000000000003b20       0x36
+                0x0000000000003c4e       0x36
  .text.libgcc.prologue
-                0x0000000000003b20       0x36 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
-                0x0000000000003b20                __epilogue_restores__
+                0x0000000000003c4e       0x36 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+                0x0000000000003c4e                __epilogue_restores__
 
 .text.tac_get_calib_value
-                0x0000000000003b56       0x34
+                0x0000000000003c84       0x34
  .text.tac_get_calib_value
-                0x0000000000003b56       0x34 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
-                0x0000000000003b56                tac_get_calib_value
+                0x0000000000003c84       0x34 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+                0x0000000000003c84                tac_get_calib_value
 
 .text.is_end_of_command
-                0x0000000000003b8a       0x32
+                0x0000000000003cb8       0x32
  .text.is_end_of_command
-                0x0000000000003b8a       0x32 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
+                0x0000000000003cb8       0x32 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
 .text.tim_get_reference_val
-                0x0000000000003bbc       0x30
+                0x0000000000003cea       0x30
  .text.tim_get_reference_val
-                0x0000000000003bbc       0x30 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Timer.c.o
-                0x0000000000003bbc                tim_get_reference_val
+                0x0000000000003cea       0x30 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Timer.c.o
+                0x0000000000003cea                tim_get_reference_val
 
 .text.__vfprintf
-                0x0000000000003bec       0x30
+                0x0000000000003d1a       0x30
  .text.__vfprintf
-                0x0000000000003bec       0x30 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vfprintf.o)
-                0x0000000000003bec                __vfprintf
+                0x0000000000003d1a       0x30 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vfprintf.o)
+                0x0000000000003d1a                __vfprintf
 
 .text.io_set_duty_PWM_LED_green
-                0x0000000000003c1c       0x2e
+                0x0000000000003d4a       0x2e
  .text.io_set_duty_PWM_LED_green
-                0x0000000000003c1c       0x2e CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
-                0x0000000000003c1c                io_set_duty_PWM_LED_green
+                0x0000000000003d4a       0x2e CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x0000000000003d4a                io_set_duty_PWM_LED_green
 
 .text.io_set_duty_PWM_LED_red
-                0x0000000000003c4a       0x2e
+                0x0000000000003d78       0x2e
  .text.io_set_duty_PWM_LED_red
-                0x0000000000003c4a       0x2e CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
-                0x0000000000003c4a                io_set_duty_PWM_LED_red
+                0x0000000000003d78       0x2e CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x0000000000003d78                io_set_duty_PWM_LED_red
 
 .text.init_WD_timer
-                0x0000000000003c78       0x2e
+                0x0000000000003da6       0x2e
  .text.init_WD_timer
-                0x0000000000003c78       0x2e CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Init.c.o
+                0x0000000000003da6       0x2e CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Init.c.o
 
 .text.puts_logg_on
-                0x0000000000003ca6       0x2c
+                0x0000000000003dd4       0x2c
  .text.puts_logg_on
-                0x0000000000003ca6       0x2c CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
+                0x0000000000003dd4       0x2c CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
 .text.read_switch
-                0x0000000000003cd2       0x2a
+                0x0000000000003e00       0x2a
  .text.read_switch
-                0x0000000000003cd2       0x2a CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x0000000000003e00       0x2a CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
 
 .text.libgcc.div
-                0x0000000000003cfc       0x28
+                0x0000000000003e2a       0x28
  .text.libgcc.div
-                0x0000000000003cfc       0x28 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
-                0x0000000000003cfc                _div
-                0x0000000000003cfc                __divmodhi4
+                0x0000000000003e2a       0x28 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                0x0000000000003e2a                _div
+                0x0000000000003e2a                __divmodhi4
 
 .text.libgcc.div
-                0x0000000000003d24       0x28
+                0x0000000000003e52       0x28
  .text.libgcc.div
-                0x0000000000003d24       0x28 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
-                0x0000000000003d24                __udivmodhi4
+                0x0000000000003e52       0x28 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x0000000000003e52                __udivmodhi4
 
-.text.isxdigit  0x0000000000003d4c       0x28
+.text.isxdigit  0x0000000000003e7a       0x28
  .text.isxdigit
-                0x0000000000003d4c       0x28 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(isxdigit.o)
-                0x0000000000003d4c                isxdigit
+                0x0000000000003e7a       0x28 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(isxdigit.o)
+                0x0000000000003e7a                isxdigit
 
 .text.__wrap_sprintf
-                0x0000000000003d74       0x24
+                0x0000000000003ea2       0x24
  .text.__wrap_sprintf
-                0x0000000000003d74       0x24 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o)
-                0x0000000000003d74                _sprintf_cdopuxX
+                0x0000000000003ea2       0x24 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o)
+                0x0000000000003ea2                _sprintf_cdopuxX
 
 .text.ee_read_byte
-                0x0000000000003d98       0x20
+                0x0000000000003ec6       0x20
  .text.ee_read_byte
-                0x0000000000003d98       0x20 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Eeprom.c.o
-                0x0000000000003d98                ee_read_byte
+                0x0000000000003ec6       0x20 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Eeprom.c.o
+                0x0000000000003ec6                ee_read_byte
 
 .text.libgcc.mul
-                0x0000000000003db8       0x20
+                0x0000000000003ee6       0x20
  .text.libgcc.mul
-                0x0000000000003db8       0x20 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
-                0x0000000000003db8                __mulsi3
+                0x0000000000003ee6       0x20 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+                0x0000000000003ee6                __mulsi3
 
 .text.libgcc.mul
-                0x0000000000003dd8       0x1e
+                0x0000000000003f06       0x1e
  .text.libgcc.mul
-                0x0000000000003dd8       0x1e c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
-                0x0000000000003dd8                __umulhisi3
+                0x0000000000003f06       0x1e c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x0000000000003f06                __umulhisi3
 
 .text.io_set_switch_status_test
-                0x0000000000003df6       0x1c
+                0x0000000000003f24       0x1c
  .text.io_set_switch_status_test
-                0x0000000000003df6       0x1c CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
-                0x0000000000003df6                io_set_switch_status_test
+                0x0000000000003f24       0x1c CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x0000000000003f24                io_set_switch_status_test
 
-.text.strlen    0x0000000000003e12       0x1c
- .text.strlen   0x0000000000003e12       0x1c c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strlen.o)
-                0x0000000000003e12                strlen
+.text.strlen    0x0000000000003f40       0x1c
+ .text.strlen   0x0000000000003f40       0x1c c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+                0x0000000000003f40                strlen
 
-.text.avrlibc   0x0000000000003e2e       0x1c
- .text.avrlibc  0x0000000000003e2e       0x1c C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5\libatmega328p.a(eewr_byte.o)
-                0x0000000000003e2e                eeprom_write_byte
-                0x0000000000003e30                eeprom_write_r18
+.text.avrlibc   0x0000000000003f5c       0x1c
+ .text.avrlibc  0x0000000000003f5c       0x1c C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5\libatmega328p.a(eewr_byte.o)
+                0x0000000000003f5c                eeprom_write_byte
+                0x0000000000003f5e                eeprom_write_r18
 
 .text.io_get_duty_PWM_tacho
-                0x0000000000003e4a       0x18
+                0x0000000000003f78       0x18
  .text.io_get_duty_PWM_tacho
-                0x0000000000003e4a       0x18 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
-                0x0000000000003e4a                io_get_duty_PWM_tacho
+                0x0000000000003f78       0x18 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x0000000000003f78                io_get_duty_PWM_tacho
 
 .text.io_get_duty_PWM_LED_green
-                0x0000000000003e62       0x16
+                0x0000000000003f90       0x16
  .text.io_get_duty_PWM_LED_green
-                0x0000000000003e62       0x16 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
-                0x0000000000003e62                io_get_duty_PWM_LED_green
+                0x0000000000003f90       0x16 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x0000000000003f90                io_get_duty_PWM_LED_green
 
 .text.io_get_duty_PWM_LED_red
-                0x0000000000003e78       0x16
+                0x0000000000003fa6       0x16
  .text.io_get_duty_PWM_LED_red
-                0x0000000000003e78       0x16 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
-                0x0000000000003e78                io_get_duty_PWM_LED_red
+                0x0000000000003fa6       0x16 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\IO.c.o
+                0x0000000000003fa6                io_get_duty_PWM_LED_red
 
 .text.callback_from_timer
-                0x0000000000003e8e       0x16
+                0x0000000000003fbc       0x16
  .text.callback_from_timer
-                0x0000000000003e8e       0x16 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Main.c.o
-                0x0000000000003e8e                callback_from_timer
+                0x0000000000003fbc       0x16 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Main.c.o
+                0x0000000000003fbc                callback_from_timer
 
 .text.callback_from_serial_port
-                0x0000000000003ea4       0x16
+                0x0000000000003fd2       0x16
  .text.callback_from_serial_port
-                0x0000000000003ea4       0x16 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Main.c.o
-                0x0000000000003ea4                callback_from_serial_port
+                0x0000000000003fd2       0x16 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Main.c.o
+                0x0000000000003fd2                callback_from_serial_port
 
 .text.libgcc.mul
-                0x0000000000003eba       0x16
+                0x0000000000003fe8       0x16
  .text.libgcc.mul
-                0x0000000000003eba       0x16 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
-                0x0000000000003eba                __muluhisi3
+                0x0000000000003fe8       0x16 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                0x0000000000003fe8                __muluhisi3
 
-.text.exit      0x0000000000003ed0       0x16
- .text.exit     0x0000000000003ed0       0x16 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
-                0x0000000000003ed0                exit
+.text.exit      0x0000000000003ffe       0x16
+ .text.exit     0x0000000000003ffe       0x16 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+                0x0000000000003ffe                exit
 
 .text.timer_int_UART
-                0x0000000000003ee6       0x14
+                0x0000000000004014       0x14
  .text.timer_int_UART
-                0x0000000000003ee6       0x14 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
-                0x0000000000003ee6                timer_int_UART
+                0x0000000000004014       0x14 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SerialPort.c.o
+                0x0000000000004014                timer_int_UART
 
-.text.toupper   0x0000000000003efa       0x12
- .text.toupper  0x0000000000003efa       0x12 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(toupper.o)
-                0x0000000000003efa                toupper
+.text.toupper   0x0000000000004028       0x12
+ .text.toupper  0x0000000000004028       0x12 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(toupper.o)
+                0x0000000000004028                toupper
 
-.text.tolower   0x0000000000003f0c       0x10
- .text.tolower  0x0000000000003f0c       0x10 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(tolower.o)
-                0x0000000000003f0c                tolower
+.text.tolower   0x000000000000403a       0x10
+ .text.tolower  0x000000000000403a       0x10 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(tolower.o)
+                0x000000000000403a                tolower
 
-.text.avrlibc   0x0000000000003f1c       0x10
- .text.avrlibc  0x0000000000003f1c       0x10 C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5\libatmega328p.a(eerd_byte.o)
-                0x0000000000003f1c                eeprom_read_byte
+.text.avrlibc   0x000000000000404a       0x10
+ .text.avrlibc  0x000000000000404a       0x10 C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5\libatmega328p.a(eerd_byte.o)
+                0x000000000000404a                eeprom_read_byte
 
 .text.__vsprintf
-                0x0000000000003f2c        0xe
+                0x000000000000405a        0xe
  .text.__vsprintf
-                0x0000000000003f2c        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsprintf.o)
-                0x0000000000003f2c                __vsprintf
+                0x000000000000405a        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsprintf.o)
+                0x000000000000405a                __vsprintf
 
-.text.libgcc    0x0000000000003f3a        0xc
- .text.libgcc   0x0000000000003f3a        0xc c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
-                0x0000000000003f3a                __tablejump2__
+.text.libgcc    0x0000000000004068        0xc
+ .text.libgcc   0x0000000000004068        0xc c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x0000000000004068                __tablejump2__
 
-.text           0x0000000000003f46        0x4
- .text          0x0000000000003f46        0x4 C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5/crtatmega328p.o
-                0x0000000000003f46                __vector_22
-                0x0000000000003f46                __vector_1
-                0x0000000000003f46                __vector_24
-                0x0000000000003f46                __vector_12
-                0x0000000000003f46                __bad_interrupt
-                0x0000000000003f46                __vector_3
-                0x0000000000003f46                __vector_23
-                0x0000000000003f46                __vector_25
-                0x0000000000003f46                __vector_11
-                0x0000000000003f46                __vector_13
-                0x0000000000003f46                __vector_17
-                0x0000000000003f46                __vector_7
-                0x0000000000003f46                __vector_5
-                0x0000000000003f46                __vector_4
-                0x0000000000003f46                __vector_9
-                0x0000000000003f46                __vector_21
-                0x0000000000003f46                __vector_15
-                0x0000000000003f46                __vector_8
-                0x0000000000003f46                __vector_14
-                0x0000000000003f46                __vector_10
+.text           0x0000000000004074        0x4
+ .text          0x0000000000004074        0x4 C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8/avr/lib/avr5/crtatmega328p.o
+                0x0000000000004074                __vector_22
+                0x0000000000004074                __vector_1
+                0x0000000000004074                __vector_24
+                0x0000000000004074                __vector_12
+                0x0000000000004074                __bad_interrupt
+                0x0000000000004074                __vector_3
+                0x0000000000004074                __vector_23
+                0x0000000000004074                __vector_25
+                0x0000000000004074                __vector_11
+                0x0000000000004074                __vector_13
+                0x0000000000004074                __vector_17
+                0x0000000000004074                __vector_7
+                0x0000000000004074                __vector_5
+                0x0000000000004074                __vector_4
+                0x0000000000004074                __vector_9
+                0x0000000000004074                __vector_21
+                0x0000000000004074                __vector_15
+                0x0000000000004074                __vector_8
+                0x0000000000004074                __vector_14
+                0x0000000000004074                __vector_10
 
-.text._Exit     0x0000000000003f4a        0x4
- .text._Exit    0x0000000000003f4a        0x4 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
-                0x0000000000003f4a                _Exit
+.text._Exit     0x0000000000004078        0x4
+ .text._Exit    0x0000000000004078        0x4 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+                0x0000000000004078                _Exit
 
 .text.__dummy_fini
-                0x0000000000003f4e        0x2
+                0x000000000000407c        0x2
  .text.__dummy_fini
-                0x0000000000003f4e        0x2 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
-                0x0000000000003f4e                _fini
+                0x000000000000407c        0x2 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+                0x000000000000407c                _fini
 
 .text.__dummy_funcs_on_exit
-                0x0000000000003f50        0x2
+                0x000000000000407e        0x2
  .text.__dummy_funcs_on_exit
-                0x0000000000003f50        0x2 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
-                0x0000000000003f50                __funcs_on_exit
+                0x000000000000407e        0x2 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+                0x000000000000407e                __funcs_on_exit
 
 .text.__dummy_simulator_exit
-                0x0000000000003f52        0x2
+                0x0000000000004080        0x2
  .text.__dummy_simulator_exit
-                0x0000000000003f52        0x2 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
-                0x0000000000003f52                __simulator_exit
+                0x0000000000004080        0x2 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+                0x0000000000004080                __simulator_exit
 
 .rodata.m_tacho_default_calib_val
-                0x0000000000800372       0x18 load address 0x0000000000003f54
+                0x0000000000800372       0x18 load address 0x0000000000004082
  .rodata.m_tacho_default_calib_val
                 0x0000000000800372       0x18 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
 
 .rodata.state_table
-                0x000000000080038a       0x16 load address 0x0000000000003f6c
+                0x000000000080038a       0x16 load address 0x000000000000409a
  .rodata.state_table
                 0x000000000080038a       0x16 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
 
-.rodata         0x00000000008003a0        0xc load address 0x0000000000003f82
+.rodata         0x00000000008003a0        0xc load address 0x00000000000040b0
  .rodata        0x00000000008003a0        0xc CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\Monitor.c.o
 
 .rodata.nuls.2781
-                0x00000000008003b4        0x7 load address 0x0000000000003f8e
+                0x00000000008003bc        0x7 load address 0x00000000000040bc
  .rodata.nuls.2781
-                0x00000000008003b4        0x7 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_s.o)
+                0x00000000008003bc        0x7 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_s.o)
 
 .rodata.nilstr.2962
-                0x00000000008003bb        0x6 load address 0x0000000000003f95
+                0x00000000008003c3        0x6 load address 0x00000000000040c3
  .rodata.nilstr.2962
-                0x00000000008003bb        0x6 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+                0x00000000008003c3        0x6 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
 
 .data.g_timer_value
-                0x00000000008003c1        0x4 load address 0x0000000000003f9b
+                0x00000000008003c9        0x4 load address 0x00000000000040c9
  .data.g_timer_value
-                0x00000000008003c1        0x4 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SysTimer.c.o
-                0x00000000008003c1                g_timer_value
+                0x00000000008003c9        0x4 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SysTimer.c.o
+                0x00000000008003c9                g_timer_value
 
 .data.m_red_LED_rpm_start
-                0x00000000008003ea        0x2 load address 0x0000000000003f9f
+                0x00000000008003f2        0x2 load address 0x00000000000040cd
  .data.m_red_LED_rpm_start
-                0x00000000008003ea        0x2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+                0x00000000008003f2        0x2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
 
 .data.m_red_LED_rpm_inc
-                0x00000000008003ec        0x2 load address 0x0000000000003fa1
+                0x00000000008003f4        0x2 load address 0x00000000000040cf
  .data.m_red_LED_rpm_inc
-                0x00000000008003ec        0x2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+                0x00000000008003f4        0x2 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
 
-.data.tim_tenth_sec.1963
-                0x00000000008003fe        0x1 load address 0x0000000000003fa3
- .data.tim_tenth_sec.1963
-                0x00000000008003fe        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SysTimer.c.o
+.data.tim_tenth_sec.1966
+                0x0000000000800406        0x1 load address 0x00000000000040d1
+ .data.tim_tenth_sec.1966
+                0x0000000000800406        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SysTimer.c.o
 
-.data.time_one_sec.1964
-                0x00000000008003ff        0x1 load address 0x0000000000003fa4
- .data.time_one_sec.1964
-                0x00000000008003ff        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SysTimer.c.o
+.data.time_one_sec.1967
+                0x0000000000800407        0x1 load address 0x00000000000040d2
+ .data.time_one_sec.1967
+                0x0000000000800407        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\SysTimer.c.o
 
 .data.m_nbr_of_cylinders
-                0x0000000000800401        0x1 load address 0x0000000000003fa5
+                0x0000000000800409        0x1 load address 0x00000000000040d3
  .data.m_nbr_of_cylinders
-                0x0000000000800401        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+                0x0000000000800409        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
 
 .data.m_is_4_stroke
-                0x0000000000800402        0x1 load address 0x0000000000003fa6
+                0x000000000080040a        0x1 load address 0x00000000000040d4
  .data.m_is_4_stroke
-                0x0000000000800402        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+                0x000000000080040a        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
 
 .data.m_green_LED_min
-                0x0000000000800403        0x1 load address 0x0000000000003fa7
+                0x000000000080040b        0x1 load address 0x00000000000040d5
  .data.m_green_LED_min
-                0x0000000000800403        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+                0x000000000080040b        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
 
 .data.m_green_LED_max
-                0x0000000000800404        0x1 load address 0x0000000000003fa8
+                0x000000000080040c        0x1 load address 0x00000000000040d6
  .data.m_green_LED_max
-                0x0000000000800404        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o
+                0x000000000080040c        0x1 CMakeFiles\Tachometer_default_default_XC8_compile.dir\C_\Users\Bengt_Palmkvist\Documents\Project\Tachometer\TachoCalc.c.o

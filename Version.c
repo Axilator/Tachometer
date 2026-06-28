@@ -10,4 +10,4 @@
 
 //////////////////////////////////////////////////////////////////////////
 // Global variables
-const char g_version[] FLASH_MEM = {"03.00"};
+const char g_version[] FLASH_MEM = {"03.10"};

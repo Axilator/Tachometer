@@ -1,29 +1,52 @@
 # ninja log v7
-48	799	8035700855355452	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/SysTimer.c.o	6d2ae575f8f560fe
-30	802	8035700855165387	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/IO.c.o	bf74c2657a1dce90
-26	802	8035700855135378	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Handler.c.o	93a8db9508d13713
-64	804	8035700855505479	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Version.c.o	d12fcebaa178044
-23	809	8035700855105374	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Eeprom.c.o	fe299dae38638fd1
-53	809	8035700855405447	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/TachoCalc.c.o	30cf6c2ed66c3e49
-19	810	8035700855065363	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Debug.c.o	deaef608732589ce
-37	810	8035700855245404	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Monitor.c.o	5f6d4019d6109b7e
-33	811	8035700855205395	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Init.c.o	bda7ae0db8b4bc7d
-41	811	8035700855285423	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/SerialPort.c.o	9ad74c966c0ba5f8
-58	812	8035700855445463	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Timer.c.o	18cbdebcc232c368
-68	812	8035700855555496	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/main.c.o	e3898f882a004628
-813	1393	8035700862994902	C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/out/Tachometer/default.elf	35152a429f7010ca
-31	416	8035704799973356	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Init.c.o	bda7ae0db8b4bc7d
-56	425	8035704800223405	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Timer.c.o	18cbdebcc232c368
-67	431	8035704800333430	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Version.c.o	d12fcebaa178044
-35	432	8035704800003360	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Main.c.o	538184a1a3788fde
-25	435	8035704799913330	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Handler.c.o	93a8db9508d13713
 49	437	8035704800143390	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/SysTimer.c.o	6d2ae575f8f560fe
-72	437	8035704800373439	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/main2.c.o	23f3cf44c46fea05
-22	438	8035704799883324	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Eeprom.c.o	fe299dae38638fd1
-19	438	8035704799843313	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Debug.c.o	deaef608732589ce
 28	439	8035704799943346	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/IO.c.o	bf74c2657a1dce90
-42	446	8035704800073371	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/SerialPort.c.o	9ad74c966c0ba5f8
+25	435	8035704799913330	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Handler.c.o	93a8db9508d13713
+67	431	8035704800333430	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Version.c.o	d12fcebaa178044
+22	438	8035704799883324	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Eeprom.c.o	fe299dae38638fd1
 52	453	8035704800183399	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/TachoCalc.c.o	30cf6c2ed66c3e49
+19	438	8035704799843313	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Debug.c.o	deaef608732589ce
 38	473	8035704800043366	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Monitor.c.o	5f6d4019d6109b7e
-4	195	8035706157790422	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/main2.c.o	23f3cf44c46fea05
+31	416	8035704799973356	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Init.c.o	bda7ae0db8b4bc7d
+42	446	8035704800073371	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/SerialPort.c.o	9ad74c966c0ba5f8
+56	425	8035704800223405	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Timer.c.o	18cbdebcc232c368
+68	812	8035700855555496	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/main.c.o	e3898f882a004628
 195	304	8035706159700848	C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/out/Tachometer/default.elf	85c99bc3f07634b1
+35	432	8035704800003360	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Main.c.o	538184a1a3788fde
+4	195	8035706157790422	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/main2.c.o	23f3cf44c46fea05
+32	819	8036693811412231	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Debug.c.o	deaef608732589ce
+42	824	8036693811512253	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/IO.c.o	bf74c2657a1dce90
+36	825	8036693811452243	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Eeprom.c.o	fe299dae38638fd1
+61	825	8036693811702296	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/SysTimer.c.o	6d2ae575f8f560fe
+68	826	8036693811782322	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Timer.c.o	18cbdebcc232c368
+64	827	8036693811732300	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/TachoCalc.c.o	30cf6c2ed66c3e49
+49	827	8036693811582269	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Main.c.o	538184a1a3788fde
+53	828	8036693811622293	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Monitor.c.o	5f6d4019d6109b7e
+39	828	8036693811482250	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Handler.c.o	93a8db9508d13713
+73	828	8036693811822336	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Version.c.o	d12fcebaa178044
+46	829	8036693811552264	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Init.c.o	bda7ae0db8b4bc7d
+57	829	8036693811662289	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/SerialPort.c.o	9ad74c966c0ba5f8
+829	1251	8036693819387210	C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/out/Tachometer/default.elf	6e4af5050f0cf76b
+21	231	8036698834201008	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Main.c.o	538184a1a3788fde
+17	241	8036698834160997	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Handler.c.o	93a8db9508d13713
+241	347	8036698836401507	C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/out/Tachometer/default.elf	6e4af5050f0cf76b
+34	308	8036701398751381	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Main.c.o	538184a1a3788fde
+42	309	8036701398831405	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/SysTimer.c.o	6d2ae575f8f560fe
+31	313	8036701398721366	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Init.c.o	bda7ae0db8b4bc7d
+21	324	8036701398631348	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Handler.c.o	93a8db9508d13713
+27	329	8036701398681362	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/IO.c.o	bf74c2657a1dce90
+46	340	8036701398871407	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/TachoCalc.c.o	30cf6c2ed66c3e49
+38	357	8036701398791385	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Monitor.c.o	5f6d4019d6109b7e
+358	465	8036701401982110	C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/out/Tachometer/default.elf	6e4af5050f0cf76b
+17	284	8036703021355578	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Monitor.c.o	5f6d4019d6109b7e
+285	392	8036703024036178	C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/out/Tachometer/default.elf	6e4af5050f0cf76b
+25	645	8037554044321881	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/TachoCalc.c.o	30cf6c2ed66c3e49
+645	1134	8037554050516317	C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/out/Tachometer/default.elf	6e4af5050f0cf76b
+19	265	8037592286684840	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/TachoCalc.c.o	30cf6c2ed66c3e49
+266	390	8037592289155398	C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/out/Tachometer/default.elf	6e4af5050f0cf76b
+15	10172	8038451041789700	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Main.c.o	538184a1a3788fde
+10172	10641	8038451143363318	C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/out/Tachometer/default.elf	6e4af5050f0cf76b
+5	611	8042892095766820	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/Version.c.o	d12fcebaa178044
+612	1081	8042892101834161	C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/out/Tachometer/default.elf	6e4af5050f0cf76b
+4	223	8042899790344918	CMakeFiles/Tachometer_default_default_XC8_compile.dir/C_/Users/Bengt_Palmkvist/Documents/Project/Tachometer/SerialPort.c.o	9ad74c966c0ba5f8
+223	345	8042899792545415	C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/out/Tachometer/default.elf	6e4af5050f0cf76b

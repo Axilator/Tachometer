@@ -11,12 +11,18 @@
 #include "Init.h"
 #include "Timer.h"
 
+#define ARDUINO_AVR_UNO
+
 /***********************************************************************
     Serial port SETUP AVR
 ***********************************************************************/
 #define BAUD 19200
 //#define BAUD 115200
+#ifdef ARDUINO_AVR_UNO
+#define MY_UBRR_REG (uint16_t)((F_CPU / 4 / BAUD - 1) / 2)
+#else
 #define MY_UBRR_REG (uint16_t)((F_CPU/16/BAUD)-1) /* F_CPU / (16 * BAUD) -1 */
+#endif
 
 #define MY_UCSR0B_REG  (_BV(RXCIE0) | _BV(TXCIE0)  | _BV(RXEN0)  | _BV(TXEN0))
 

@@ -27,8 +27,7 @@ set(Tachometer_default_default_XC8_FILE_TYPE_compile
     "${CMAKE_CURRENT_SOURCE_DIR}/../../../SysTimer.c"
     "${CMAKE_CURRENT_SOURCE_DIR}/../../../TachoCalc.c"
     "${CMAKE_CURRENT_SOURCE_DIR}/../../../Timer.c"
-    "${CMAKE_CURRENT_SOURCE_DIR}/../../../Version.c"
-    "${CMAKE_CURRENT_SOURCE_DIR}/../../../main2.c")
+    "${CMAKE_CURRENT_SOURCE_DIR}/../../../Version.c")
 set_source_files_properties(${Tachometer_default_default_XC8_FILE_TYPE_compile} PROPERTIES LANGUAGE C)
 set(Tachometer_default_default_XC8_FILE_TYPE_link)
 set(Tachometer_default_default_XC8_FILE_TYPE_objcopy_avr)

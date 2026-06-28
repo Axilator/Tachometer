@@ -70,11 +70,5 @@
   "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DXPRJ_default=default -D__ATmega328P__ -c -mcpu=ATmega328P -x c \"-mdfp=C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8\" -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\Tachometer_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\Version.c.o -c \"C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\Version.c\"",
   "file": "C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\Version.c",
   "output": "CMakeFiles\\Tachometer_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\Version.c.o"
-},
-{
-  "directory": "C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/Tachometer/default",
-  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DXPRJ_default=default -D__ATmega328P__ -c -mcpu=ATmega328P -x c \"-mdfp=C:/Users/Bengt Palmkvist/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8\" -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\Tachometer_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\main2.c.o -c \"C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\main2.c\"",
-  "file": "C:\\Users\\Bengt Palmkvist\\Documents\\Project\\Tachometer\\main2.c",
-  "output": "CMakeFiles\\Tachometer_default_default_XC8_compile.dir\\C_\\Users\\Bengt_Palmkvist\\Documents\\Project\\Tachometer\\main2.c.o"
 }
 ]

@@ -1,0 +1,67 @@
+
+
+    Then, 4 methods to get a convention out of a sentence:
+	
+        THIS_IS_MY_CONVENTION for macros, enum members
+		
+        ThisIsMyConvention for file name, object name (class, struct, enum, union...), function name, method name, typedef
+		
+        this_is_my_convention global and local variables, parameters, struct and union elements
+		
+        thisismyconvention [optional] very local and temporary variables (such like a for() loop index)
+
+And that's it.
+
+It gives
+
+class MyClass {
+    enum TheEnumeration {
+        FIRST_ELEMENT,
+        SECOND_ELEMENT,
+    }
+
+    int class_variable;
+
+    int MyMethod(int first_param, int second_parameter) {
+        int local_variable;
+        TheEnumeration local_enum;
+        for(int myindex=0, myindex<class_variable, myindex++) {
+             localEnum = FIRST_ELEMENT;
+        }
+    }
+}
+
+------------------
+
+    Trivial Variables: i,n,c,etc... (Only one letter. If one letter isn't clear, then make it a Local Variable)
+    Local Variables: camelCase
+    Global Variables: g_camelCase
+    Const Variables: ALL_CAPS
+    Pointer Variables: add a p_ to the prefix. For global variables it would be gp_var, for local variables p_var, for const variables p_VAR. If far pointers are used then use an fp_ instead of p_.
+    Structs: ModulePascalCase (Module = full module name, or a 2-3 letter abbreviation, but still in PascalCase.)
+    Struct Member Variables: camelCase
+    Enums: ModulePascalCase
+    Enum Values: ALL_CAPS
+    Public Functions: ModulePascalCase
+    Private Functions: PascalCase
+    Macros: PascalCase
+
+-------------------
+
+this_is_my_convention global and local variables, parameters, struct and union elements
+
+    Trivial Variables: i,n,c,etc... (Only one letter. If one letter isn't clear, then make it a Local Variable)
+    Local Variables: local_variable
+    Global Variables: g_global_variable
+	member variables should have m_ prefix
+    Const Variables: ALL_CAPS
+    Pointer Variables: add a p_ to the prefix. For global variables it would be gp_var, for local variables p_var, for const variables p_VAR. If far pointers are used then use an fp_ instead of p_.
+    Structs: ModulePascalCase (Module = full module name, or a 2-3 letter abbreviation, but still in PascalCase.)
+    Struct Member Variables: camelCase
+    Enums: ModulePascalCase
+    Enum Values: ALL_CAPS
+    Public Functions: ModulePascalCase
+    Private Functions: PascalCase
+    Macros: PascalCase
+
+Use CamelCase for types (classes, structs, enums, unions), methods and functions and camelCase for the variables.
