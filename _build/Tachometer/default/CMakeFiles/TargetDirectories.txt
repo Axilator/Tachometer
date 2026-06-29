@@ -1,4 +1,0 @@
-C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/Tachometer/default/CMakeFiles/Tachometer_default_default_XC8_compile.dir
-C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/Tachometer/default/CMakeFiles/Tachometer_default_image_opd1MajW.dir
-C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/Tachometer/default/CMakeFiles/edit_cache.dir
-C:/Users/Bengt Palmkvist/Documents/Project/Tachometer/_build/Tachometer/default/CMakeFiles/rebuild_cache.dir
