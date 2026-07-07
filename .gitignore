@@ -17,3 +17,25 @@ cmake/**/CMake*
 out/
 .vscode/
 codeStyle.txt
+Schema/BOM_V20.docx
+Schema/Tacho Schematic.pdf
+Schema/Tacho Schematic.docx
+Schema/Tachometer component placement.docx
+CAM/Tacho_21/Board.GML
+CAM/Tacho_21/Board.rep
+CAM/Tacho_21/BotCu.GBL
+CAM/Tacho_21/BotCu.rep
+CAM/Tacho_21/drill.rep
+CAM/Tacho_21/drill.TXT
+CAM/Tacho_21/MaskBot.GBS
+CAM/Tacho_21/MaskBot.rep
+CAM/Tacho_21/MaskTop.GTP
+CAM/Tacho_21/MaskTop.GTS
+CAM/Tacho_21/MaskTop.rep
+CAM/Tacho_21/readme.txt
+CAM/Tacho_21/SilkBot.GBO
+CAM/Tacho_21/SilkBot.rep
+CAM/Tacho_21/SilkTop.GTO
+CAM/Tacho_21/SilkTop.rep
+CAM/Tacho_21/TopCu.GTL
+CAM/Tacho_21/TopCu.rep
